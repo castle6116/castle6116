@@ -1,3 +1,5 @@
+신생 개발자 김진우 입니다. 잘부탁드립니다
+---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=castle6116)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
